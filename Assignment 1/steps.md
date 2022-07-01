@@ -1,5 +1,6 @@
 # Hadoop
-<author> Pim de Groot, 647945
+<author> Pim de Groot, 647945 <br>
+[Github repository](https://github.com/CyberPim/Hadoop/tree/main/Assignment%201) 
 
 ## Steps
 1. Launch virtual box with Hortonworks Docker Sandbox Spark I root Student1234
